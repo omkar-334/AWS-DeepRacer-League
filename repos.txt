@@ -1,0 +1,13 @@
+https://qiita.com/dnp-ayako/items/2b42f2cf25fa79abd55b  
+https://student.deepracer.com  
+https://github.com/VilemR/AWS_DeepRacer/blob/master/reward_function.py  
+https://github.com/cdthompson/deepracer-training-2019/blob/master/reward.py  
+https://github.com/rajat5ranjan/AWS-DeepRacer  
+https://github.com/DoguD/aws-deepracer  
+https://github.com/Usin2705/DeepRacer/tree/master  
+https://github.com/scottpletcher/deepracer  
+https://github.com/sasasavic82/deepracer-reward  
+https://github.com/DoguD/aws-deepracer  
+https://github.com/hamham1004/DeepRacer  
+https://github.com/Usin2705/DeepRacer  
+https://github.com/MatthewSuntup/DeepRacer  
